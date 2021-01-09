@@ -1,3 +1,3 @@
 # CSE110Lab1
 #
-# Jimin's User Page
+Jimin's User Page
